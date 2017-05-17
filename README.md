@@ -1,5 +1,5 @@
 # Traffic Sign Recognition
---
+
 
 **Build a Traffic Sign Recognition Program**
 
@@ -12,7 +12,7 @@ The goals / steps of this project are the following:
 * Analyze the softmax probabilities of the new images
 * Summarize the results with a written report
 
---
+
 
 
 ### Data Set Summary & Exploration
