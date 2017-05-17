@@ -1,0 +1,9 @@
+
+
+old/
+modified/
+**/lenet.data*
+
+.DS_Store
+traffic-signs-data.zip
+traffic-signs-data/
